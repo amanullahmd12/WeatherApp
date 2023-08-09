@@ -2,7 +2,7 @@
 
 Welcome to WeatherApp! This is a simple weather application that allows users to retrieve and display current weather information for different cities. The application utilizes the OpenWeatherMap API to fetch weather data and presents it in a user-friendly format.
 
-![WeatherApp Screenshot](screenshot.png)
+<img width="1440" alt="Screenshot 2023-08-09 at 3 35 05 PM" src="https://github.com/amanullahmd12/WeatherApp/assets/92320933/73aafde4-ddb3-4d24-a872-5f19a04669be">
 
 ## Live Demo
 Check out the live demo of the WeatherApp: [WeatherApp Demo](https://amanullahmd12.github.io/WeatherApp/)
